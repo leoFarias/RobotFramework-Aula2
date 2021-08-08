@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"robot.language-server.python": "C:\\Users\\leo_g\\Treinamento - Sbk - RoboFramework\\Aula 2\\venv\\Scripts\\python.exe",
+		"robot.lint.robocop.enabled": true,
+		"robot.variables": {
+		"robot":"C:\\Users\\leo_g\\Treinamento - Sbk - RoboFramework\\Aula 2"
+		}
+	}
+}
